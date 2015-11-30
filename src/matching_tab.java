@@ -54,7 +54,7 @@ public class matching_tab  extends JPanel
         JButton Add = new JButton("Add Q&A");
         JButton Clear = new JButton("Clear Question");
 		JButton CreateCode = new JButton("Create Gift Code");
-		JButton ClearGift = new JButton("Clear Gift List");
+		JButton ClearGift = new JButton("Clear Output List");
         
         JCheckBox Del1 = new JCheckBox("Delete");
         JCheckBox Del2 = new JCheckBox("Delete"); 
