@@ -38,7 +38,7 @@ public class TrueOrFalse  extends JPanel
 		JRadioButton falseBtn = new JRadioButton("False");
 		JButton Clear = new JButton("Clear Question");
 		JButton CreateCode = new JButton("Create Gift Code");
-		JButton ClearGift = new JButton("Clear Gift List");
+		JButton ClearGift = new JButton("Clear Output List");
 
 		JLabel QuestionTitleLab = new JLabel("Queston title:");
 		JLabel Lab = new JLabel("Question");
